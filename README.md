@@ -1,4 +1,5 @@
 # Winter_vacation
+
 ## Merge the pdf
 
 纸张的书永远看起来比LCD上面方便…近来在学习Perl,所以想看看他的书,但买不到,好不容易找了一个电子版本的.想打印出来.但是太多了.200多页.这样的话太浪费纸张了.
@@ -7,11 +8,11 @@
 
 要这样使用的话,需要使用到一个命令 pdfnup.它包含在pdfjam这个软件包中,看看你的Linux的发行版本怎么安装.我的是Ubuntu的8.10.
 
-#sudo apt-get install pdfjam
+`sudo apt-get install pdfjam`
 
 这样就安装完了.使用的方法也很容易,见下面.
 
-#pdfnup --pages all --nup 2x2 Perl语言入门第四版中文.pdf  
+`pdfnup --pages all --nup 2x2`  
 
 这句的–pages是指打印所有的.–nup是网页排列的方式.
 
@@ -23,11 +24,6 @@
 
 --nup 2x2 也是指4个页面合并成一个,但是一个网页它会上面二页,下面二页.这样比较合理.
 
+## 合并的在线网页
 [smallpdf](http://smallpdf.com/cn/merge-pdf)
-
- 
-
-所以要是你想二个页面合并成一个,就使用–nup 2×1.如果想4个页面合并成一个就–nup 2×2.就能很完美的节约纸张.
-
-我打印Perl语言入门第四版中文.pdf ,4个页面合并成一张,还相当的清楚.这个和你的打印机的分辩率有关.我的是600dpi.最少要这个分辩率才合适给4个页面合并成一张.
 
