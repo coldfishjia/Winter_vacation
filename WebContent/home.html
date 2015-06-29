@@ -1,6 +1,7 @@
 
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
 <html lang="en" dir="ltr">
 <head>
 <style type="text/css">
@@ -47,14 +48,14 @@ div.header {
 	position: relative;
 	top: 0px;
 	width: 100%;
-	text-align: right;
-	padding: 0px;
+	text-align: left;
+	padding: 30px;
 	color: white;
 	background-color: grey;
 	background-image: url(images/second_top3.jpg);
 	background-repeat: no-repeat;
-	background-position: bottom left;
-	background-size: 650px 100px;
+	background-position: bottom right;
+	background-size: 950px 200px;
 }
 
 div.footer {
@@ -146,11 +147,13 @@ img.myimage {
 </head>
 
 <body>
+        
+        
 
 
 	<div class="header">
 
-		<h1 class="header">贾智平</h1>
+		<h1 class="header">贾智平的个人主页</h1>
 
 	</div>
 
@@ -174,10 +177,30 @@ img.myimage {
 
 
 			<td><div class="content">
-			
-			            
 
-                                        <!-- 
+
+					
+
+					<!-- 
+					
+					<button id="click">改变内容</button>
+                                        <div id="t">要改变的内容</div>
+                                        <script type="text/javascript">
+                                                document.getElementById("click").onclick = function() {
+                                                        var text = document.getElementById("t");
+                                                        var val = text.innerHTML;
+                                                        text.innerHTML = "<input type='text' id='n' value="+val+" />";
+                                                        document.getElementById("n").addEventListener(
+                                                                        "blur",
+                                                                        function(e) {
+                                                                                text.innerHTML = document
+                                                                                                .getElementById("n").value;
+                                                                        });
+                                                };
+                                        </script>
+					
+					
+					
                                          <object id=doc_html data="gledit.htm" width=530 height=320 type=text/x-scriptlet VIEWASTEXT></object> 
                                         <p id="r">Hello</p>
                                         <p>你好欢迎来到sharejs.com</p>
@@ -190,7 +213,7 @@ img.myimage {
 
                                                 
                                          -->
-					
+
 					<p>Welcome to my home page.</p>
 
 
@@ -206,7 +229,16 @@ img.myimage {
 	</table>
 	</div>
 
-	<div class="footer">Copyright Zhiping Jia 2010</div>
+	<div class="footer">
+	       
+                        <ul>
+                               
+                                <li class="login"><a href="login.htm">登录</a></li>
+                               
+                        </ul>
+             
+	
+	Copyright Zhiping Jia 2010</div>
 
 
 </body>

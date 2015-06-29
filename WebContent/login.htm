@@ -1,0 +1,137 @@
+﻿<!-- 页面来自：https://www.paypal.com/cn/cgi-bin/webscr?cmd=_login-run -->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>登录</title>
+<link rel="stylesheet" type="text/css" href="images/pageLogin.css">
+<link rel="stylesheet" type="text/css" href="images/core.css">
+<script type="text/javascript">
+	if (parent.frames.length > 0) {
+		top.location.replace(document.location);
+	}
+
+	function checkForm() {
+		var username = document.getElementById("user_name");
+		var password = document.getElementById("login_password");
+		if (username.value == "") {
+			alert("请输入用户帐号！");
+			username.focus();
+			return false;
+		} else if (password.value == "") {
+			alert("请输入登录密码！");
+			password.focus();
+			return false;
+		}
+		return true;
+	}
+
+	document.onkeydown = function enterToTab() {
+		if (event.srcElement.name == "user_name" && event.keyCode == 13) {
+			event.keyCode = 9;
+		}
+	}
+</script>
+</head>
+<body>
+	<div class="srd" id="header">
+		
+			<ul>
+				
+				<li class="login"><a href="login.htm">登录</a></li>
+				
+			</ul>
+		
+	</div>
+	<div id="xptContentOuter">
+		<table align="center" border="0" cellpadding="0" cellspacing="0"
+			id="xptContentInner">
+			<tr valign="top">
+				<td>
+					<div id="xptTitle">
+						<table align="center" border="0" cellpadding="0" cellspacing="0"
+							class="contentTitle">
+							<tr>
+								<td class="heading" width="100%"><h1>用户登录</h1></td>
+								<td align="right" nowrap><span class="small">安全登录</span> <img
+									src="images/secure_lock_2.gif" border="0" alt=""></td>
+							</tr>
+							<tr>
+								<td colspan="2"><img alt="" border="0" height="2"
+									src="images/pixel.gif" width="1"></td>
+							</tr>
+							<tr>
+								<td colspan="2"><hr></td>
+							</tr>
+							<tr>
+								<td><img alt="" border="0" height="4"
+									src="images/pixel.gif" width="1"></td>
+							</tr>
+						</table>
+					</div>
+					<div id="xptContentMain">
+						<div class="main">
+							<div id="content">
+								<div class="box login">
+									<div class="header">
+										<h2>账户登录</h2>
+									</div>
+									<div class="body">
+										<form method="post" name="login_form" action="login"
+											onsubmit="return checkForm()">
+											<input type="hidden" name="login_cmd" value=""><input
+												type="hidden" name="login_params" value="">
+											<fieldset>
+												<legend>用户登录</legend>
+												<p>
+													<label for="user_name">用户帐号</label><input type="text"
+														id="user_name" class="" name="user_name" value="">
+												</p>
+												<p>
+													<label for="login_password">登录密码</label><input
+														autocomplete="off" type="password" id="login_password"
+														name="login_password" value="">
+												</p>
+												
+												<p>
+													<input type="submit" name="submit.x" value="登录"
+														class="button primary">
+												</p>
+											</fieldset>
+											
+											<input name="form_charset" type="hidden" value="UTF-8">
+										</form>
+										<script type="text/javascript">
+										<!-- hide from JavaScript-challenged browsers
+											var email_field = document
+													.getElementById("user_name");
+											if (email_field != null
+													&& email_field
+															.getAttribute('type') != 'hidden'
+													&& email_field.value == '') {
+												email_field.focus();
+											} else {
+												document.login_form.login_password
+														.focus();
+											}
+										</script>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div class="srd" id="footer">
+		<ul>
+			
+		</ul>
+		<p id="footerSecure">
+			<a target="_blank" href="http://www.nit.net.cn" onClick=""> <img
+				border="0" src="images/nit.gif" alt=""></a>
+		</p>
+	</div>
+</body>
+</html>
