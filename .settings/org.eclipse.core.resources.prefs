@@ -1,3 +1,4 @@
 eclipse.preferences.version=1
+encoding//WebContent/home.html=UTF-8
 encoding//src/cn/net/nit/fs/model/User.java=ISO-8859-1
 encoding//src/cn/net/nit/fs/servlet/DownloadServlet.java=ISO-8859-1
