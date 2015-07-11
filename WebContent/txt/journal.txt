@@ -1,0 +1,139 @@
+ 2013
+
+ -  A Real-Time Flash Translation Layer via Adaptive Partial Garbage Collection
+    Zhaoyan Shen, Xin Li, Lei Ju, Zhiping Jia
+    Inderscience Of Embedded System
+
+2012
+
+-  Trust Prediction and Trust-based Source Routing in Mobile Ad Hoc Networks
+    Hui Xia, Zhiping Jia, Xin Li, Lei Ju, Edwin H.-M. Sha
+    Elsevier-Ad Hoc Networks, SCI, Impact Factor 2.110, Available online 25 February 2012,In Press
+    
+-  Impact of Trust Model on On-demand Multi-path Routing in Mobile Ad Hoc Networks
+    Hui Xia, Zhiping Jia, Lei Ju, Xin Li, Edwin H. -M. Sha
+    Elsevier-Computer Communications, SCI, Impact Factor 1.044,In Press
+ 
+-  Node Trust Evaluation in Mobile Ad Hoc Networks Based on Multi-dimensional Fuzzy and Markov SCGM(1,1) Model
+    Feng Zhang, Zhi-Ping Jia, Hui Xia, Xin Li, Edwin H.-M. Sha
+    Elsevier-Computer Communications, 35(5), 1 March 2012, pp: 589-596, SCI, Impact Factor 1.044
+
+-   移动Ad Hoc网络中基于链路稳定性预测的组播路由协议
+    夏辉, 贾智平, 张志勇, Edwin H. -M. Sha.
+    计算机学报, 国内A类核心期刊, Impact Factor 2.906, EI源刊,已录用
+
+-   一种面向同构集群系统的并行任务节能调度优化方法
+    李新,贾智平,鞠雷,赵衍恒,宗子良
+    计算机学报,2012.35(3):591-602
+
+2011
+
+-   AES专用指令处理器的研究与实现, 计算机研究与发展
+    夏辉, 贾智平, 张峰, 李新, 陈仁海, EdwinH.-M.Sha
+    2011, 48(8):1554-1562.
+
+-   Trust management model for mobile ad hoc network based on analytic hierarchy process and fuzzy theory,
+    Hui Xia, Zhiping Jia, Lei Ju, and Youqin zhu
+    Journal of Wireless Sensor Systems, IET, 1(4), pp 248-266, 2011
+ 
+-   面向无线自组网的分布式信任管理模型
+    魏德健, 贾智平, 李新
+    计算机应用, 2011, 31(1):129-132
+
+-   利用蚁群聚类检测应用层DDoS攻击的方法
+    张纹华，贾智平，李新
+    计算机工程与应用, 2011, 47(14):99-102
+
+-   6LoWPAN中分层路由协议HiLow的改进
+    赵勇, 黎峰, 贾智平, 李新
+    计算机工程与应用, 2011, 47(7):78-81
+
+2010
+
+-   Trust-based On-demand Multipath Routing in Mobile Ad Hoc Networks
+    Xin Li, Zhiping Jia, Ruihua Zhang, Peng Zhang, Haiyang Wang
+    Journal of Institution of Engineering and Technology (IET) Information Security, 4(3), pp 212-232, 2010/12.(SCI: 000287341900004)
+
+-   Feedback Control Real-time Scheduling over Data Streams
+    Xin Li, Zhiping Jia, Ruihua Zhang
+    Journal of Computational Information Systems, 6(4), pp 1051-1059, 2010.( EI:20103913260689)
+
+-  基于能量效率的无线传感器网络分簇算法
+    张瑞华, 程合友, 贾智平
+    吉林大学学报(工学版), 40(6), pp 1663-1667, 2010.(EI收录)
+
+-   无线传感器网络基于能量效率的系统设计
+    张瑞华, 贾智平
+    小型微型计算机系统, 31(1), pp 7-12, 2010
+  
+-   AODV和AOMDV路由协议性能分析与比较
+    王鲁光, 贾智平, 李新
+    计算机应用, 30(3), pp 740-744, 2010.
+
+-   基于LLC 的嵌入式局域网协议栈设计
+    宋波, 贾智平, 李新
+    计算机工程与设计, 2010,31(23):4939-4943
+
+2009
+
+-   Nodes Deployment Mechanism Based on Energy Efficiency in Wireless Sensor Networks
+    Zhang Ruihua, Jia Zhiping, Xu Xinshun
+    International Journal of Distributed Sensor Networks, 5(1), p 99, 2009.(SCI收录)
+
+-   Trust Evaluation and Dynamic Routing Decision Based on Fuzzy Theory for MANETs
+    Dai Hongjun, Chen Tianzhou, Jia Zhiping
+    Journal of Software, 2009(4), pp 1091-1101, 2009(EI,ISTP收录)
+
+-   基于信任需求的Ad Hoc网格任务调度算法
+    王通, 贾智平
+    计算机工程与设计, 30(10), pp 2354-2356, 2009
+
+-   蚁群与粒子群混合的FPGA布局算法
+    赵军, 贾智平
+    计算机工程与应用, 45(18), pp 70-71, 2009
+
+-   基于CGSR的改进型Ad Hoc路由协议
+    陈维华, 贾智平
+    计算机应用, 29(1), pp 32-33, 2009/1
+
+2008年之前的部分论文：
+
+-   基于并行和预测的方向菱形运动估计算法
+    魏长虎, 贾智平, 程志
+    计算机应用, 28(11), pp 2887-2889, 2008
+
+-   Fuzzy C-Means Algorithm Based on Pretreatment of Similarity Relation
+    Zhiping Jia, Chenghui Zhang, Rupeng Sun
+    DCDIS JOURNAL (DYNAMICS OF CONTINUOUS DISCRETE AND IMPULSIVE SYSTEMS), Series B14(1), 2007.2, P103-111
+
+-   异构型无线传感器网络的生命周期
+    张瑞华, 贾智平, 袁东风
+    吉林大学学报(工学版),38(05), pp 1136-1140, 2008.(EI收录)
+
+-   嵌入式通信中间件的马尔可夫路由决策与选择
+    贾智平，刘甜甜，张承慧，Edwin H.-M.Sha
+    电子学报，Vol.35 No.7 2007.7, P1228-1233
+
+-   An Embedded Gateway Based on Real-time Database
+    Zhiping Jia, Xinxiao Qiao
+    EUC05, Nagasaki, Japan, 2005.12, LNCS Volume 3823 / 2005 P845-853, IFIP (International Federation for Information Processing)
+
+-   Embedded Communication Protocol for Distributed Wireless Gateway
+    Zhiping Jia,Tiantian Liu, Zheng Liu
+    Embedded Systems: Status and Perspective ,American Scientific publishers (Accepted)
+
+-   Fuzzy C-Means Clustering Algorithm Based on Incomplete Data
+    Zhiping Jia,Zhiqiang Yu,Chenghui Zhang
+    International Conference on Information Acquisition, IEEE ICIA2006.8, Vo.1,600-604
+
+-   Design of Wireless Gateway Communication Protocol for Distributed Monitoring Systems
+    Zhiping Jia, Zheng Liu
+    ICESS2005, Xi’an, 2005.12, IEEE CS （Computer Society The 2nd International Conference on Embedded Software and Systems）,P110-115
+
+-   OPC-based Architecture of Embedded Web Server
+    Zhiping Jia, Xin Li
+    Embedded Software and System, LNCS Volume 3635/2005.8, P362-367
+
+-   Optimize Address Assignment with Array and Loop Transformations for minimizing Schedule Length
+    Chun Jason Xue, Zhiping Jia, Zili Shao, Meng Wang, Edwin H.-M. Sha
+    IEEE Transactions on Circuits and Systems I (IEEE CAS), June 2007.

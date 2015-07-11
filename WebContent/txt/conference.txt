@@ -1,0 +1,177 @@
+ 2014
+
+-  Energy Efficient Real-Time Task Scheduling for Embedded Systems with Hybrid Main Memory
+    Zhiyong Zhang, Zhiping Jia, Lei Ju, Peng Liu
+    The 20th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA 2014)
+-  Double Circulation Wear Leveling for PCM-Based Embedded Systems
+    Guan Wang, Fei Peng, Lei Ju, Lei Zhang, Zhiping Jia
+    10th Annual Conference of Advanced Computer Architecture (ACA 2014)
+
+2013
+
+-   Light-Weight Trust-Based On-Demand Multipath Routing Protocol for Mobile Ad Hoc Networks
+    Chuanhao Qu, Lei Ju, Zhiping Jia, Huaqiang Xu, Longpeng Zheng
+    12th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom2013) CCF推荐排名C类
+
+-   Thermal-Aware On-chip Memory Architecture Exploration
+    Yang Li, Lei Ju, Zhiping Jia, Yi Wang, Zili Shao
+    The 12th IEEE International Conference on Ubiquitous Computing and Communications (IUCC-2013) CCF推荐排名C类
+
+-   Link Stability Evaluation and Stability Based Multicast Routing Protocolin Mobile Ad Hoc Networks
+    Zhiyong Zhang, Zhiping Jia, Hui Xia
+    The 11th IEEE International Conference on Ubiquitous Computing and Communications (IUCC-2012)
+
+-  Context-Aware Routing Algorithm for WSNs Based on Unequal Clustering
+    Longpeng Zheng, Zhiping Jia, Ruihua Zhang, Hui Xia, Lei Ju, Chuanhao Qu
+    The 12th IEEE International Conference on Ubiquitous Computing and Communications (IUCC-2013) CCF推荐排名C类
+
+-   Normal Vector based Fault-Tolerant Event Boundary Detection in Wireless Sensor Networks
+    Wei Wang, Ruihua Zhang, Zhongwei Chen, Lei Ju
+    The 12th IEEE International Conference on Ubiquitous Computing and Communications (IUCC-2013) CCF推荐排名C类
+
+-   TimSim: A Timestep-based Wireless Ad-hoc Network Simulator
+    Chong Yan, Zhiping Jia, Lei Ju, Hui Xia, Huaqiang Xu
+    The 4th International Workshop on Wireless Networks and Multimedia (WNM-2013)
+
+-   Multivalued trust routing based on topology level for wireless sensor networks
+    Zhongwei Chen, Ruihua Zhang, Lei Ju, Wei Wang
+    The 3rd IEEE International Symposium on Trust and Identity in Mobile Internet, Computing and Communications(TrustID 2013)
+
+-   BINARIZATION BASED IMPLEMENTATION FOR REAL-TIME HUMAN DETECTION
+    Shuai Xie, Yibin Li, Zhiping Jia, Lei Ju
+    The International Conference on Field Programmable Logic and Applications (FPL)，FPL2013 CCF推荐排名C类
+
+-   Binarization-based Human Detection for Compact FPGA Implementation
+    Shuai Xie, Yibin Li , Zhiping Jia, Lei Ju
+    International Conference on Advanced Parallel Processing Technology （APPT 2013）
+
+-   Dependency-based Energy-Efficient Scheduling for Homogeneous Multi-core Clusters
+    Yanheng Zhao, Xin Li, Zhiping Jia, Lei Ju, Ziliang Zong
+    The 11th IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA-13)
+
+2012
+
+-  A Novel Partial Dynamic Reconfiguration Image Sensor Node for Wireless Multimedia Sensor Networks
+    Fucai Liu, Zhiping Jia, Yibin Li
+    in the 9rd IEEE International Conference on Embedded Software and Systems
+
+-   Link Stability Evaluation and Stability Based Multicast Routing Protocolin Mobile Ad Hoc Networks
+    Zhiyong Zhang, Zhiping Jia, Hui Xia
+    The 11th IEEE International Conference on Ubiquitous Computing and Communications (IUCC-2012)
+
+-   Prediction-Based Algorithm for Event Detection in Wireless Sensor Networks
+    Yu yongji ,Jia zhiping ,Zhang ruihua
+    The 11th IEEE International Conference on Ubiquitous Computing and Communications (IUCC-2012) 11th IEEE International Conference 
+    on Ubiquitous Computing and Communications (IUCC-2012) or the associated workshops
+
+-   ASIP-based Design and Implementation of RSA for Embedded Systems
+    Zhongbo Wang, Zhiping Jia, Lei Ju, Renhai Chen
+    in the 9rd IEEE International Conference on Embedded Software and Systems
+
+2011
+
+-   EIPv6: A Reduced IPv6 Protocol Stack for Embedded Systems
+    Yihua Huang, Zhiping Jia, Xin Li and Hui Xia
+    in the 3rd IEEE International Conference on Advanced Computer Control, pp 83-87, 2011. (EI: 20114014393987)
+
+-   Dynamic Temperature-Aware Task Scheduling Based on Sliding Window Model for MPSoCs
+    Luguang Wang, Zhiping Jia, Xin Li, Yang Li and Meikang Qiu
+    in the 3rd IEEE International Conference on Advanced Computer Control, pp 98-103, 2011. (EI: 20114014393990)
+
+-   A New Design of Embedded IPv4/IPv6 Dual-stack Protocol
+    Jian Chen, Zhiping Jia and Xin Li
+    in 2011 International Conference on Network Computing and Information Security, pp 163-167, 2011. (EI: 20113214218418)
+
+-   A Subjective Trust Management Model based on AHP for MANETs Hui Xia, Zhiping Jia, Xin Li and Feng Zhang
+    in 2011 International Conference on Network Computing and Information Security, pp 363-368, 2011. (EI: 20113214218364)
+
+-   The application specific instruction processor for AES
+    Renhai Chen, Zhiping Jia, Yibin Li, Hui Xia, and Xin Li in 2011 3rd International Conference on Electronics Computer Technology, 
+    pp 394-396, 2011. (EI: 20113214226273)
+
+-   A Subjective Trust Management Model with Multiple Decision Factors for MANET Based on AHP and Fuzzy Logic Rules
+    Hui Xia,Zhiping Jia, Lei Ju, Xin Li, Youqin zhu
+    in 2011 IEEE/ACM International Conference on Green Computing and Communications, pp 124-130, 2011. (EI: 20114714532035)
+
+-   Multicast Trusted Routing with QoS Multi-constraints in Wireless Ad Hoc Networks
+    Hui Xia, Zhiping Jia, Lei Ju, and Youqin zhu
+    in 2011 International Conference on IEEE TrustCom, pp 1277-1282, 2011
+ 
+-  Design of Embedded Secure Gateway Based on 6LoWPAN
+    YuanYuan Zhou, Zhiping Jia, Xianli Sun, Xin Li, and Lei Ju
+    in the 13rd IEEE International Conference on Communication Technology, pp 732-736, 2011. (EI收录)
+
+2010
+
+-   A Trust-based Multipath Routing Framework for Mobile Ad Hoc Networks
+    Xin Li, Zhiping Jia, Peng Zhang, and Haiyang Wang
+    in Proc. of the 7th International Conference on Fuzzy Systems and Knowledge Discovery , pp 773-777, 2010. (EI: 20104813422487)
+ 
+-   Node Trust Assessment in Mobile Ad Hoc Networks Based on Multi-dimensional Fuzzy Decision Making
+    Feng Zhang, Zhiping Jia, Xin Li, and Hui Xia
+    in The 2010 IEEE/IFIP International conference on Embedded and Ubiquitous Computing, pp 511-516, 2010.(EI: 20110813692105)
+
+2009
+
+-   Make a Strategic decision Using Markov for Dynamic Checkpoint Interval
+    Yanan Wang, Shengfa Gao, Zhiping Jia, Xin Li
+    IEEE Ninth International Conference on Computer and Information Technology(CIT), 2009/10/11.(EI,ISTP收录)
+
+-   Rule-based Publish-Subscribe Mechanism for Real-time Applications
+    Xin Li, Zhiping Jia, Xinjie Lu, Haiyang Wang
+    In Proc of the 8th IEEE/ACIS International Conference on Computer and Information Science (ICIS), 2009/6/1.(EI,ISTP收录)
+
+-   Component-based multi-threading support of the multi-core mobile software
+    Dai Hongjun, Chen Tianzhou, Jia Zhiping
+    2009 WRI International Conference on Communications and Mobile Computing, 2009/10/12.(EI,ISTP收录)
+
+-   Earliest Deadline Scheduling for Continuous Queries over Data Streams
+    Xin Li, Zhiping Jia, Li Ma, Hongjun Dai, Ruihua Zhang, Haiyang Wang
+    In Proc of the 6th IEEE International Conference on Embedded Software and Systems(ICESS), 2009/9/25.(EI,ISTP收录)
+
+-   QoS-aware Scheduling for Mixed Real-time Queries over Data Streams
+    Xin Li, Zhiping Jia, Li Ma, Zhiwei Qin, Haiyang Wang
+    In Proc of the 15th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), 
+    2009/8/24.(EI,ISTP收录)
+
+-   The Improved Scheme of Prolong-Lifetime in Wireless Sensor Networks
+    ZHANG Rui-hua, JIA Zhi-ping, CHENG He-you, LI Xin, HAN Dong-xue
+    2009 International Conferences on Embedded Software and Systems, 2009/5/25.(EI,ISTP收录)
+
+-   Energy Efficient Routing Protocol for Wireless Sensor Networks via Unequal Clustering
+    ZHANG Rui-Hua, JIA Zhi-Ping, CHENG He-You, HAN Dong-Xue
+    the international symposium on innovations and real-time applications of distributed sensor networks, 2009/5/18.(EI收录)
+
+2008
+
+-   Depth-Expurgation based Dynamic Trust Evaluation Algorithm for Ad Hoc Networks
+    Jia Zhiping, Qin Zhiwei, Xu Xinshun, Zhang Ruihua
+    In Proc.2008 IEEE International Conference of Embedded Software and Systems (ICESS), 2008, 2008/7/29.(EI,ISTP收录)
+
+-   An Entropy-based Trust Modeling and Evaluation for Wireless Sensor Networks
+    Dai Hongjun, Jia Zhiping, Dong Xiaona
+    Embedded Software and Systems, 2008. ICESS '08. International Conference on, pp 27-34, 2008/7/29.(EI,ISTP收录)
+ 
+-   Fuzzy Dynamic Programming based Trusted Routing Decision in Mobile Ad Hoc Networks
+    Qin Zhiwei, Jia Zhiping, Chen Xihui
+    In Proc.2008 Fifth IEEE International Symposium on Embedded Computing (SEC), 2008, 2008/10/6.(EI,ISTP收录)
+
+-   A Fuzzy algorithm for parallelizability evaluation and load balance on the multi-core processor
+    Dai, Hongjun, Xu, XinShun, Jia, Zhiping
+    Granular Computing, 2008. GrC 2008. IEEE International Conference on, pp 168-171, 2008/8/26.(EI,ISTP收录)
+ 
+-   A Balanced Cluster Routing Protocol of Wireless Sensor Network
+    Ruihua Zhang, Lin Wang, Shichao Geng, Zhiping Jia
+    Embedded Software and Systems Symposia, 2008. ICESS Symposia '08. International Conference on, pp 221-225, 2008/6/12.(EI收录)
+
+-   A Maximum-Votes and Load-balance Clustering Algorithm for Wireless Sensor Networks
+    Zhang Ruihua, Jia Zhiping, Wang Lin
+    The 4th IEEE International Conference Communications on Wireless, Networking and Mobile Computing, 2008/10/12.(EI,ISTP收录)
+ 
+-   A self-organizing map algorithm for the traveling salesman problem
+    Xu Xinshun, Jia Zhiping, Jun Ma, Wang Jiahai
+    Proceedings of 2008 International Conference on Natural Computation, 2008/8/25.(EI,ISTP收录)
+ 
+-   Nodes Deployment Mechanism Based on Energy Efficiency in Wireless Sensor Networks
+    Zhang Ruihua, Jia Zhiping, Xu Xinshun
+    International Symposium on Advances in Computer and Sensor Networks and Systems, 2008/4/7
